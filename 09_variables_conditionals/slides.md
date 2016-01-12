@@ -1,10 +1,8 @@
-![GeneralAssemb.ly](../../img/icons/FEWD_Logo.png)
+#FEWD - JavaScript Basics
 
-#FEWD - Variables Conditionals
+###Matt Soria
 
-###Instructor Name
-
-Instructors current role.
+Instructor
 
 ---
 
@@ -60,9 +58,11 @@ Both at the same time: ```var age = 21;```
 
 ##Variable Re-Assignment
 
-```var name = "Jo";```
+```
+var name = "Jo";
 
-```name = Amir;```
+name = Amir;
+```
 
 Note:
 
@@ -99,7 +99,7 @@ The types of different values we support include:
 ---
 
 
-![GeneralAssemb.ly](../img/icons/code_along.png)
+![GeneralAssemb.ly](../img/code_along.png)
 ##Score Keeper
 
 ---
@@ -109,9 +109,11 @@ The types of different values we support include:
 *	Stores textual information
 *	String literal is surrounded by quotes
 
-```"How is the weather today?"```
+```
+"How is the weather today?"
 
-```'Warm'```
+'Warm'
+```
 
 ---
 
@@ -189,13 +191,13 @@ Can perform arithmetic on number data types
 
 ##Arithmetic In JavaScript
 
-![](../img/unit_1/arithmetic.jpg)
+![](../img/arithmetic.jpg)
 
 ---
 
 ##Conditionals
 
-![](../img/unit_1/cfDiagram.png)
+![](../img/cfDiagram.png)
 
 ---
 
@@ -213,7 +215,7 @@ you are an adult
 ---
 
 
-![GeneralAssemb.ly](../../img/icons/code_along.png)
+![GeneralAssemb.ly](../img/code_along.png)
 ##Compare That
 
 ---
@@ -233,7 +235,7 @@ Are two things equal?
 
 ##Logical Operators
 
-![](../img/unit_1/logical_operators.png)
+![](../img/logical_operators.png)
 
 ---
 
@@ -297,7 +299,7 @@ if (name == "GA"  && password == "YellowPencil"){
 
 ##The Truth Table
 
-![](../../img/unit_1/and_table.png)
+![](../img/and_table.png)
 
 ---
 
@@ -313,22 +315,11 @@ if (day == "Tuesday"  || day == "Thursday"){
 
 ##The Truth Table
 
-
-![](../../img/unit_1/or_table.png)
-
----
-
-##The Console
-
+![](../img/or_table.png)
 
 ---
 
-![GeneralAssemb.ly](../../img/icons/code_along.png)
-##Blackout
-
-
-
-![GeneralAssemb.ly](../../img/icons/exercise_icon_md.png)
+![GeneralAssemb.ly](../img/exercise_icon_md.png)
 ##Temp Converter
 
 ---

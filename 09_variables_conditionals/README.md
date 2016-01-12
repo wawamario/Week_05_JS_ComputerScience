@@ -1,7 +1,4 @@
-![GeneralAssemb.ly](../../img/icons/instr_agenda.png)
-
-
-####Lesson 09 - Conditionals
+####Lesson 09 - JavaScript Basics
 
 
 ###LEARNING OBJECTIVES
@@ -27,10 +24,6 @@
 
 ---
 
-###LESSON PLANNING NOTES
-
-Below you will find notes on each section from the proposed schedule. These notes are  meant to help you plan an awesome lesson.
-
 ####jQuery Basics Review
 _Time: 20min_
 
@@ -38,12 +31,11 @@ _Time: 20min_
 
 #####DOM Selectors
 
-| Code along | [GA Solution File](solution/domSelectors_solution)|
+| Code along | GA Solution File|
 | :------------- |:-------------|
 | __Time__ | 20 min|
 | __Topics__ | jQuery click event, DOM manipulation|
 | __Description__| Review homework assignments|
-| __Notes__|  N/A |
 
 ===
 
@@ -59,7 +51,6 @@ _Time: 40min_
 | __Time__ | 30 min|
 | __Topics__ | data types, variables |
 | __Description__| Bare bones example that keeps scores. Meant to introduce variables. |
-| __Notes__| Starter code is included to save you time. It  is helpful to demo the final product before coding. For beginners, it helps to know the end product before coding. Give students time to look through the HTML code. You can make changes to work with other data types.|
 
 ===
 
@@ -74,17 +65,6 @@ _Time: 50min_
 | __Time__ | 20 min |
 | __Topics__ | conditionals, variables, text box |
 | __Description__| Visual representation of conditionals. |
-| __Notes__| It is intentional that ID, tag and variable names are similar. We want students to begin to identify the difference. |
-
-
-#####Blackout
-
-| Code Along | [GA Solution File](solution/blackout) <br> Code pen version available [here](http://codepen.io/nevan/pen/ywqEC)|
-| ------------- |:-------------|
-| __Time__ | 15 min |
-| __Topics__ | jQuery functions .addClass, .removeClass  |
-| __Description__| Updates to Blackout code along to showcase more jQuery functions and best practices when adding interactivity to a website.|
-| __Notes__| Allow the students to take the lead on this one. This is a key skill students need for lab time and the next lesson. |
 
 ====
 
@@ -98,7 +78,6 @@ _Time: 50min_
 | __Time__ | 45 min |
 | __Topics__ | variables, DOM manipulation |
 | __Description__| Three part exercise. The final version of the Temp Converter will take celsius temperature input convert it to  Fahrenheit and change the background image according to the weather. This exercise is the first step in that process|
-| __Notes__| We intentionally left out the solution file. Each group should have a unique solution (and that  is ok). If your class is  struggling with the concepts, we suggest helping students through the pseudo code. |
 
 Part 1:
 
@@ -110,7 +89,3 @@ Part 1:
 
 
 ----
-
-[![slides](../../img/icons/slides.png)](slides.md)
-
-click icon for slides.
